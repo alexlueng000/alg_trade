@@ -1,0 +1,3 @@
+- write data to csv file
+- read data from csv file
+- read daily data from api and append to csv file in a regular time
